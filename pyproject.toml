@@ -10,6 +10,7 @@ dependencies = [
 
 [project.scripts]
 kickoff = "crewai_first_project.main:kickoff"
+run_crew = "crewai_first_project.main:kickoff"
 plot = "crewai_first_project.main:plot"
 
 [build-system]
